@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hello this is lokesh, im passionate about learning
 
 <!--
 **LokeshGoud07/LokeshGoud07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
